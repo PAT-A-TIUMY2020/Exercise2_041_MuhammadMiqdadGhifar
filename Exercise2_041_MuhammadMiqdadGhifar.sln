@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2_041_MuhammadMiqdadGhifar", "Exercise2_041_MuhammadMiqdadGhifar\Exercise2_041_MuhammadMiqdadGhifar.csproj", "{001FDACE-4CBC-4174-A37D-F699E8C557C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceRest_041_MuhammadMiqdadGhifar", "..\ServiceRest_041_MuhammadMiqdadGhifar\ServiceRest_041_MuhammadMiqdadGhifar\ServiceRest_041_MuhammadMiqdadGhifar.csproj", "{B27ABD33-9DBF-44C4-BB5A-639534B37785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{001FDACE-4CBC-4174-A37D-F699E8C557C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001FDACE-4CBC-4174-A37D-F699E8C557C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001FDACE-4CBC-4174-A37D-F699E8C557C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001FDACE-4CBC-4174-A37D-F699E8C557C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B27ABD33-9DBF-44C4-BB5A-639534B37785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27ABD33-9DBF-44C4-BB5A-639534B37785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27ABD33-9DBF-44C4-BB5A-639534B37785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27ABD33-9DBF-44C4-BB5A-639534B37785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {280640F0-A000-44D4-A32B-144800BFA599}
+	EndGlobalSection
+EndGlobal
